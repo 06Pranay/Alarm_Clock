@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/06Pranay/Shopping_Cart.git/static/css/main.c4c30fb5.css",
+    "main.js": "/06Pranay/Shopping_Cart.git/static/js/main.e42eb265.js",
+    "index.html": "/06Pranay/Shopping_Cart.git/index.html",
+    "main.c4c30fb5.css.map": "/06Pranay/Shopping_Cart.git/static/css/main.c4c30fb5.css.map",
+    "main.e42eb265.js.map": "/06Pranay/Shopping_Cart.git/static/js/main.e42eb265.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4c30fb5.css",
+    "static/js/main.e42eb265.js"
+  ]
+}
